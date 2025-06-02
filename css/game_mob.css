@@ -599,10 +599,10 @@
 		color: white !important;
 	}
 
-	html.responsive #gamePurchaseAddToCartBtn {
+	html.responsive #gamePurchaseComingSoonBtn {
 		display: none;
 	}
-	html.responsive #gamePurchaseAddToCartBtn_responsive {
+	html.responsive #gamePurchaseComingSoonBtn_responsive {
 		display: inline-block !important;
 	}
 
